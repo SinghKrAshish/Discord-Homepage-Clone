@@ -5,4 +5,4 @@ A responsive clone of the Homepage of the Discord Server using HTML, CSS and Tai
 HTML, CSS and Tailwind CSS
 
 # Link 
-Check out my project on 
+Check out my project on https://discordhomepage-copy.netlify.app/
